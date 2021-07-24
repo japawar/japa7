@@ -1,0 +1,34 @@
+Comandos para liga o bot:
+
+ apt upgrade
+
+ apt update
+
+ apt install nodejs
+
+ pkg install git
+
+ git clone https://github.com/japawar/japa7.git
+
+ cd japa7
+
+ pkg install ffmpeg
+
+ node index.js
+
+
+
+
+Pra nao buga:
+
+ pkg install pm2
+
+ npm i -g pm2
+ 
+ pm2 start index.js
+
+ pm2 monit
+
+
+
+

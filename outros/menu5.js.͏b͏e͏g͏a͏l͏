@@ -1,0 +1,19 @@
+const menu5 = () => { 
+	return `
+┏━━❉ *hentai* ❉━━━┓
+┣⊱ *${prefix}nsfwbobs*
+┣⊱ *${prefix}nsfwsidebobs*
+┣⊱ *${prefix}nsfwahegao*
+┣⊱ *${prefix}nsfwthighs*
+┣⊱ *${prefix}nsfwfeets*
+┣⊱ *${prefix}nsfwarmpits*
+┣⊱ *${prefix}hentai*
+┗━━━━━━━━━━━━━━━━━━━━━━━━
+
+BY: @japaofc7_.
+
+Querendo adicionar algum vídeo/áudio vem pv
+wa.me/+5569992419378
+`
+}
+exports.menu5 = menu5
